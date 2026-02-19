@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ニタリ",
+  "base_artist": "シンガーズハイ",
+  "createdAt": "2026-02-19T08:44:45.075507Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ニタリ",
+      "artist": "シンガーズハイ",
+      "has_synced": false,
+      "path": "select/pl_01_ニタリ_シンガーズハイ.txt"
+    }
+  ]
+}
